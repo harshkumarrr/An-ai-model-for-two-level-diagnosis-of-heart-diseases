@@ -1,4 +1,4 @@
-avv# An AI-driven dual phase model for heart disease diagonisation
+# An AI-driven dual phase model for heart disease diagonisation
 🫀 Heart Disease Detection Model
 This project presents a Machine Learning-based Heart Disease Detection System that predicts the likelihood of a person having heart disease based on key clinical features. The model is trained and evaluated on a well-known heart disease dataset, and aims to support early diagnosis, improve decision-making, and ultimately contribute to better patient outcomes.
 
